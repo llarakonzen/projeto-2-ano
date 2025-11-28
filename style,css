@@ -1,14 +1,13 @@
-body {
-    <background-color: rgb(229, 246, 229);
+body { 
+    background-color: rgb(229, 246, 229);
 }
-.cabeçalho { 
+
+.cabeçalho {
+    margin-bottom: 0px;
     background-color: #FEC7B4;
-    color: black;
+    color:black;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
-    .cabeçalho-título {
-        font-size: 54px;
-    }
